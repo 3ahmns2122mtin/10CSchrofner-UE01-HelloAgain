@@ -46,13 +46,13 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 - [x] Readme updaten
 - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
 - [x] Upload auf GitHub
-- [x] WebGL Pages Einstellen
+- [ ] WebGL Pages Einstellen
 - [x] Link in Readme einfügen
 
 ### Optionale Aufgabenstellung:
 - [ ] Grafische Aufbereitung des Projekts
 - [ ] Zusätzliche Text und Sprite Elemente einfügen und platzieren
-- [ ] Text visuell ändern: color, font, font style, etc.
+- [x] Text visuell ändern: color, font, font style, etc.
 - [ ] Textmesh pro GameObject einfügen und manipulieren 
 - [x] Color Tint Playmode einstellen
 
@@ -70,4 +70,4 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 |     x        |              |            | WebGL auf GitHub Pages veröffentlichen                                                |
 
 
-Copyright by smeerws
+Copyright by cschrofner
