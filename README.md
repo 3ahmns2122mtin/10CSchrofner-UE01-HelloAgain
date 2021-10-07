@@ -20,7 +20,7 @@ WebGL Referenzauflösung (960x600)
 https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
 
 ### Visuelle Einblicke in das Projekt: 
-![sc-ue01helloagain]!(https://user-images.githubusercontent.com/91070191/136336360-20a8cf97-ac7e-4225-b1af-0a6b80ac0894.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/91070191/136336540-89df433b-7aa0-4ba3-8908-69c193f5589c.png)
 
 
 ### Notwendiges für die Ausführung: 
