@@ -24,7 +24,7 @@ https://3ahmns2122mtin.github.io/HelloAgainCSchrofner/
 
 
 ### Notwendiges für die Ausführung: 
-Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
+Für den Export in WebGL muss das Modul WebGL in Unity installiert sein. TextMeshPro muss nachgeladen werden
 
 ### Anforderungen:  
 - [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
@@ -46,12 +46,12 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 - [x] Readme updaten
 - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
 - [x] Upload auf GitHub
-- [ ] WebGL Pages Einstellen
+- [x] WebGL Pages Einstellen
 - [x] Link in Readme einfügen
 
 ### Optionale Aufgabenstellung:
-- [ ] Grafische Aufbereitung des Projekts
-- [ ] Zusätzliche Text und Sprite Elemente einfügen und platzieren
+- [x] Grafische Aufbereitung des Projekts
+- [x] Zusätzliche Text und Sprite Elemente einfügen und platzieren
 - [x] Text visuell ändern: color, font, font style, etc.
 - [ ] Textmesh pro GameObject einfügen und manipulieren 
 - [x] Color Tint Playmode einstellen
