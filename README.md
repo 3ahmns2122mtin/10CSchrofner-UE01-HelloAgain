@@ -1,8 +1,6 @@
 # 10CSchrofner-UE01-HelloAgain
 1. Unity Projekt
 
-https://3ahmns2122mtin.github.io/HelloAgainCSchrofner/
-
 # Übung01 - HelloAgain Aufgabenbeschreibung
 
 ### Projektbeschreibung: 
